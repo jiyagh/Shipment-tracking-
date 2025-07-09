@@ -1,0 +1,1 @@
+// ShipmentDetails.jsx placeholder
